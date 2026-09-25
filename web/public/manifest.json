@@ -1,0 +1,16 @@
+{
+  "name": "FoodLoop - MoFPI Sustainable Ecosystem",
+  "short_name": "FoodLoop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F2EC",
+  "theme_color": "#1F4D3A",
+  "description": "Smart Food Waste Reduction and Sustainable Redistribution Ecosystem",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

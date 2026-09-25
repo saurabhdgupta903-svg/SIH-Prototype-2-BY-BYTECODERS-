@@ -1,0 +1,38 @@
+# Environment and Secrets
+.env
+.env.*
+!.env.example
+
+# Databases and Local SQLite
+*.db
+*.sqlite
+*.sqlite3
+foodloop.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+.vercel/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
