@@ -32,7 +32,7 @@ services:
       - key: ACCESS_TOKEN_EXPIRE_MINUTES
         value: "1440"
       - key: CORS_ORIGINS
-        value: "http://localhost:3000,http://127.0.0.1:3000"
+        value: "https://sih-prototype-2-by-bytecoders-2.vercel.app,http://localhost:3000,http://127.0.0.1:3000"
       - key: OPEN_METEO_BASE_URL
         value: "https://api.open-meteo.com/v1"
       - key: OPEN_METEO_AIR_QUALITY_URL

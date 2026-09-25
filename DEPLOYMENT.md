@@ -7,11 +7,11 @@
 
 | Service | Target URL | Status |
 |---|---|---|
-| **Frontend Web (Vercel)** | `https://<pending-vercel-deployment>` | Pending Deploy |
-| **API Core (Render)** | `https://<pending-render-deployment>` | Pending Deploy |
-| **API Health Check** | `https://<pending-render-deployment>/health` | Pending Deploy |
-| **Interactive Docs (Swagger)** | `https://<pending-render-deployment>/docs` | Pending Deploy |
-| **Live Telemetry & Tracking (WSS)** | `wss://<pending-render-deployment>/ws/driver-tracking` | Pending Deploy |
+| **Frontend Web (Vercel)** | [https://sih-prototype-2-by-bytecoders-2.vercel.app/](https://sih-prototype-2-by-bytecoders-2.vercel.app/) | Verified LIVE (HTTP 200) |
+| **API Core (Render)** | [https://foodloop-api-gszb.onrender.com](https://foodloop-api-gszb.onrender.com) | Provisioning / Deploying |
+| **API Health Check** | [https://foodloop-api-gszb.onrender.com/health](https://foodloop-api-gszb.onrender.com/health) | Target Health Endpoint |
+| **Interactive Docs (Swagger)** | [https://foodloop-api-gszb.onrender.com/docs](https://foodloop-api-gszb.onrender.com/docs) | Target Docs Endpoint |
+| **Live Telemetry & Tracking (WSS)** | `wss://foodloop-api-gszb.onrender.com/ws/driver-tracking` | Target WebSocket Endpoint |
 
 ---
 
